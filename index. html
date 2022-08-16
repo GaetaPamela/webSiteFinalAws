@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículos AWS</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>Pagina Inicial</li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Website de Currículo</h2>
+        <p class="firstP">Este site apresenta o Curriculum vitae de pessoas corajosas e empenhada em desbravar o mundo da Cloud AWS..</p>
+        <section class="secondSection">
+            <img src="./imgs/angelica.jpeg" alt="">
+            <img src="./imgs/camila.jpeg" alt="">
+            <img  src="./imgs/elba.jpeg" alt="currículo pamela">
+            <img src="./imgs/pamela.jpeg" alt="currículo pamela">
+            <img src="./imgs/valdilene.jpeg" alt="currículo valdilene">
+        </section>
+        <section>
+             <p class="conhecimento">Potência do nosso conhecimento.</p>
+            <div>
+                
+                <img src="./imgs/homemcombandeira.jpeg" alt="">
+                <h3>Soluções de Parceiro</h3>
+                <p class="boxP">Software, SaaS ou servicos gerenciados de parceiros da AWS.</p>
+            </div>
+            <div>
+                <img src="./imgs/altofalante.jpeg" alt="">
+                <h3> Orientação</h3>
+                <p class="boxP">Diagramas de arquitetura prescritivos, código de amostra e conteúdo técnico.</p>
+            </div>
+            <div>
+                <img src="./imgs/carinhafeliz.jpeg" alt="">
+                <h3>Serviço da AWS</h3>
+                <p class="boxP">Produtos em nuvem criados com propósito específico.</p>
+            </div>
+            <div>
+                <img src="./imgs/lampada.jpeg" alt="">
+                <h3>Soluções da AWS</h3>
+                <p class="boxP">Soluções prontas para implantação que montam serviços da AWS, código e configurações.</p>
+            </div>
+        </section>
+        <p class="ultimoP">Agradecimento final.</p>
+            <img class="nuvem" src="./imgs/escoladanuvem.jpeg" alt="">
+            <img class="transformar" src="./imgs/transformar.jpeg" alt="">
+
+            
+    </main>
+</body>
+
+</html>
